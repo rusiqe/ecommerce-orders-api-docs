@@ -1,6 +1,6 @@
 # E-commerce Orders API Documentation
 
-This project documents a fictional **E-commerce Orders API**, created to demonstrate professional API documentation skills for technical writing portfolios.
+This project documents a fictional **E-commerce Orders API**.
 
 ## 📦 What’s Included
 
